@@ -14,4 +14,5 @@ Additionally, below is a chart which helps visualize the stark difference betwee
 ![PyBer fare summary](/analysis/PyBer_fare_summary.png "PyBer fare summary")
 
 ## Summary
-
+Given this analysis it is clear that some actionable items can be determined. Since disparities result based on the city type, we can address these disparities through the following:
+  1.
