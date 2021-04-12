@@ -14,4 +14,4 @@ Additionally, below is a chart which helps visualize the stark difference betwee
 ![PyBer fare summary](/analysis/PyBer_fare_summary.png "PyBer fare summary")
 
 ## Summary
-Given this analysis it is clear that some actionable items can be determined. Since disparities result based on the city type, we can address these disparities through the following:
+Given this analysis it is clear that some actionable items can be determined. Since disparities result based on the city type, we can address these disparities through a few methods. Firstly, it would be wise to do further market research on the populations in Rural and Suburban areas who are currently using the ride-sharing service as well as potential untapped customers to understand why they are not using ride-sharing with great frequency. Next, by increasing marketing efforts in the Rural and Suburban areas PyBer may be able to increase name recognition and garner new customers. Lastly, PyBer could seek to incentivize current and new users through a discount/sale campaign such as a frequent user discount to encourage more riders and fares.
