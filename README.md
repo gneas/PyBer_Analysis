@@ -15,4 +15,3 @@ Additionally, below is a chart which helps visualize the stark difference betwee
 
 ## Summary
 Given this analysis it is clear that some actionable items can be determined. Since disparities result based on the city type, we can address these disparities through the following:
--
